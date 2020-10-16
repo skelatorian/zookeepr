@@ -19,3 +19,4 @@ using the send() method from the res parameter (short for response) to send the 
 to our client.
 */
 
+// npm init, npm i express first on the mac girl 
